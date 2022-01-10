@@ -8,5 +8,5 @@
 
 ## Two endpoints
 
-http://localhost:8080/encrypt?msg=hello_world
-http://localhost:8080/decrypt?msg=<encrypted_string>
+ - http://localhost:8080/encrypt?msg=hello_world
+ - http://localhost:8080/decrypt?msg=<encrypted_string>
